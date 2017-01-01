@@ -15,6 +15,6 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
-echo -e "${CYAN}Install Completed! input ./run for run bot ${NC}"
+echo -e "${CYAN}Install Completed! input ./install.sh to run bot ${NC}"
 exit
 
